@@ -64,7 +64,7 @@ tarun = {
 ### 🔗 CONNECT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tarun-r-ai-ml)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://iam-tarun-86-.github.io/tarun-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://iam-tarun-86-.github.io/tarun-portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:tarunsanjay1910@gmail.com)
 
 ```
