@@ -18,21 +18,10 @@ $ whoami
 
 ```python
 tarun = {
-    "focus"   : ["Local LLMs", "Agentic AI", "Security Automation"],
-    "hardware": "RTX 4060 8GB — fully offline inference",
-    "stack"   : ["LangGraph", "llama.cpp", "FastAPI", "Docker", "React"],
-    "status"  : "Building things that don't need the cloud ☁️✗"
+    "focus"  : ["Local LLMs", "Agentic AI", "Security Automation"],
+    "stack"  : ["LangGraph", "llama.cpp", "FastAPI", "Docker", "React"],
+    "status" : "Building things that don't need the cloud ☁️✗"
 }
-```
-
----
-
-### ⚡ CURRENT MISSION
-
-```
-[████████████████████░░░░] 80% — Local AI Security Log Analyzer
-   └─ LangGraph 3-node agentic SIEM · Gemma 4 via llama.cpp
-   └─ React 19 · Flask · Docker · 100% offline · zero API cost
 ```
 
 ---
@@ -61,10 +50,20 @@ tarun = {
 
 ---
 
+### 🐍 CONTRIBUTIONS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-tarun-86/iam-tarun-86/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-tarun-86/iam-tarun-86/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/iam-tarun-86/iam-tarun-86/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 🔗 CONNECT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tarun-r-ai-ml)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://iam-tarun-86.github.io/tarun-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://iam-tarun-86-.github.io/tarun-portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:tarunsanjay1910@gmail.com)
 
 ```
