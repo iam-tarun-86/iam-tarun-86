@@ -1,47 +1,76 @@
-<h1 align="center">Hi 👋, I'm Tarun R</h1>
-<h3 align="center">AI & ML Engineering Student | Local LLM Infrastructure | Agentic AI Systems</h3>
+<div align="center">
 
-<br/>
+```
+████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗    ██████╗
+╚══██╔══╝██╔══██╗██╔══██╗██║   ██║████╗  ██║    ██╔══██╗
+   ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║    ██████╔╝
+   ██║   ██╔══██║██╔══██╗██║   ██║██║╚██╗██║    ██╔══██╗
+   ██║   ██║  ██║██║  ██║╚██████╔╝██║ ╚████║    ██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝
+```
 
-- 🔭 I'm currently working on a **Local AI Security Log Analyzer** — a full-stack SIEM tool using LangGraph and local LLMs
-- 🌱 I'm currently learning **Agentic AI workflows, LangGraph, and LLM infrastructure**
-- 🗂️ All of my projects are available at **[iam-tarun-86-.github.io/tarun-portfolio](https://iam-tarun-86-.github.io/tarun-portfolio)**
-- 📫 How to reach me: **tarunsanjay1910@gmail.com**
-- ⚡ Fun fact: I run quantized LLMs locally on an RTX 4060 — no cloud, no cost
+```bash
+$ whoami
+> AI & ML Engineer | Local LLM Infrastructure | Agentic Systems
+> B.E. CSE @ Sri Krishna College of Technology, Coimbatore
+> Batch 2024–2028
+```
 
-<br/>
+```python
+tarun = {
+    "focus"   : ["Local LLMs", "Agentic AI", "Security Automation"],
+    "hardware": "RTX 4060 8GB — fully offline inference",
+    "stack"   : ["LangGraph", "llama.cpp", "FastAPI", "Docker", "React"],
+    "status"  : "Building things that don't need the cloud ☁️✗"
+}
+```
 
-### Connect with me:
+---
 
-<a href="https://linkedin.com/in/tarun-r-ai-ml" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/iam-tarun-86-" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:tarunsanjay1910@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### ⚡ CURRENT MISSION
 
-<br/><br/>
+```
+[████████████████████░░░░] 80% — Local AI Security Log Analyzer
+   └─ LangGraph 3-node agentic SIEM · Gemma 4 via llama.cpp
+   └─ React 19 · Flask · Docker · 100% offline · zero API cost
+```
 
-### Languages and Tools:
+---
 
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-<a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
-<a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-<a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+### 🛠 ARSENAL
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
-### GitHub Stats:
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-tarun-86-&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-tarun-86-&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+### 📡 STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=iam-tarun-86&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-tarun-86&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iam-tarun-86&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="60%" />
+
+---
+
+### 🔗 CONNECT
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tarun-r-ai-ml)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://iam-tarun-86-.github.io/tarun-portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:tarunsanjay1910@gmail.com)
+
+```
+> "I don't rent compute. I own it."
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=iam-tarun-86&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
