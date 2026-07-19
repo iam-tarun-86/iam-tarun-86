@@ -7,12 +7,23 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝
 ```
 
+<table>
+<tr>
+<td width="160" align="center">
+<img src="https://avatars.githubusercontent.com/u/295755570?v=4" width="140" style="border-radius:8px"/>
+</td>
+<td>
+
 ```
 $ whoami
 > AI/ML Engineer | Security AI Specialist
 > B.E. CSE (AI & ML) @ Sri Krishna College of Technology, Coimbatore
 > Batch 2024–2028 | CGPA: 8.0/10.0
 ```
+
+</td>
+</tr>
+</table>
 
 ```
 tarun = {
@@ -74,10 +85,10 @@ tarun = {
 
 ### 📡 STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=iam-tarun-86&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-tarun-86&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iam-tarun-86&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-tarun-86&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-tarun-86&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=iam-tarun-86&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
 
 ---
 
