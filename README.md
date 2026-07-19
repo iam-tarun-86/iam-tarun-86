@@ -1,126 +1,94 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=SYS_PORTFOLIO+%2F%2F+v3.0;whoami+-%3E+Tarun+R;AI+%26+ML+Infrastructure+Engineer;Booting+llama.cpp_8085...;STATUS%3A+ONLINE" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="140" align="center">
-<img src="https://avatars.githubusercontent.com/u/295755570?v=4" width="120" style="border-radius:50%"/>
-</td>
-<td>
-
 ```
-> whoami
-Tarun R — AI & ML Infrastructure
-
-> education
-B.E. CSE @ SKCT  |  2024 - 2028
-
-> station
-Coimbatore, TN
-
-> hardware
-GPU_ARCH: RTX_4060_READY
-INF_STATE: llama.cpp_8085 [ONLINE]
+████████╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗    ██████╗
+╚══██╔══╝██╔══██╗██╔══██╗██║   ██║████╗  ██║    ██╔══██╗
+   ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║    ██████╔╝
+   ██║   ██╔══██║██╔══██╗██║   ██║██║╚██╗██║    ██╔══██╗
+   ██║   ██║  ██║██║  ██║╚██████╔╝██║ ╚████║    ██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝
 ```
 
-</td>
-</tr>
-</table>
+```
+$ whoami
+> AI/ML Engineer | Security AI Specialist
+> B.E. CSE (AI & ML) @ Sri Krishna College of Technology, Coimbatore
+> Batch 2024–2028 | CGPA: 8.0/10.0
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iam-tarun-86.github.io/tarun-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-r-ai-ml/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunsanjay1910@gmail.com)
-
----
-
-### `cat about.md`
-
-I build **offline-first, air-gapped AI systems** — skipping API bills and compliance risk by running quantized LLMs locally. My work centers on agentic pipelines (LangGraph/LangChain) that stay predictable instead of hallucinating outside their lane.
-
-- 🔒 **Zero API Overhead** — local inference via llama.cpp, no third-party cost
-- 🛡️ **Air-Gapped Compliance** — sensitive telemetry never leaves the box
-- 🧠 **Agentic Resiliency** — structured state graphs, not open-ended prompting
+```
+tarun = {
+    "focus"  : ["Local LLMs", "Agentic AI", "Security Automation", "Computer Vision"],
+    "stack"  : ["LangChain", "llama.cpp", "FastAPI", "YOLOv8", "Docker", "React"],
+    "status" : "Building things that don't need the cloud ☁️✗"
+}
+```
 
 ---
 
-### `ls skills/`
+### 🛠 ARSENAL
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**LLM & Agentic AI**
-![llama.cpp](https://img.shields.io/badge/llama.cpp-white?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=flat-square)
-
-</td>
-<td valign="top" width="33%">
-
-**Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & DevOps**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 ---
 
-### `systemctl status --stats`
+### 📁 PROJECTS
 
-<div align="center">
+[**`npc-framework`**](https://github.com/iam-tarun-86/npc-framework) — NPC Cognitive Architecture & RPG Framework
+`Python` `Flask` `Phaser 3` `React` `ChromaDB` `DistilBERT` `llama.cpp`
+> 3-layer cognitive memory system (episodic/semantic/procedural). Fine-tuned DistilBERT classifies player intent in real time; NPC mood shifts dynamically based on interaction history.
 
-<img src="https://github-readme-stats.vercel.app/api?username=iam-tarun-86&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-tarun-86&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C" height="165"/>
+[**`phantomagent`**](https://github.com/iam-tarun-86/phantomagent) — Autonomous AI Cybersecurity SOC Dashboard
+`Python` `FastAPI` `React 18` `WebSockets` `Gemma 4 E4B` `Tailwind v4`
+> Autonomous SOC watching network/filesystem events with a 5-stage kill chain (Watcher → Pre-Filter → AI Classifier → Decision Engine → Auto-Containment). Sub-second WebSocket alerts, geolocation attack map, auto-generated forensic reports.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-tarun-86&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C" height="165"/>
+[**`smart-intrusion-detection`**](https://github.com/iam-tarun-86/smart-intrusion-detection) — AI Physical Security Platform
+`Python` `FastAPI` `YOLOv8` `ByteTrack` `OpenCV` `React 18` `PostgreSQL`
+> YOLOv8 human detection with custom ByteTrack IoU tracker and 30-frame occlusion buffers. 4-factor real-time risk scoring, live polygon zone editor, async Telegram alerts.
 
-</div>
-
----
-
-### `ls projects/ --forensic-pipeline`
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔍 **[Local AI Security Log Analyzer](https://github.com/iam-tarun-86/local-ai-log-analyzer)** | Offline SIEM pipeline; 3-node LangGraph (Ingest→Classify→Route) for real-time threat evaluation | `LangGraph` `llama.cpp` `FastAPI` `Docker` |
-| 🎮 **Smart NPC Agent Framework** | Behavioral middleware for autonomous NPC agents on local GGUF models | `Python` `Local LLMs` `GGUF` |
-| ⚙️ **PhantomAgent Orchestrator** | Zero-latency async multi-agent tool runner | `LangChain` `Tool-Calling` `Asyncio` |
-| 🛰️ **Smart ML Intrusion Detection** | ML classifiers mapped to raw TCP packet data for anomaly detection | `scikit-learn` `Pandas` `Network` |
+[**`local-ai-log-analyzer`**](https://github.com/iam-tarun-86/local-ai-log-analyzer) — Offline SIEM Tool
+`Python` `Flask` `React 19` `Gemma 4B (Ollama)` `Docker`
+> Ingests raw logs into a local Gemma 4B pipeline, returning structured JSON with CVE classifications and severity tags in under 2 seconds per batch. Fully containerized for air-gapped deployment.
 
 ---
 
-### `cat certs.log`
+### 🎓 CERTIFICATIONS
 
-`Prompting Essentials` · `Introduction to AI` — **Google**
-`Advanced Statistical Methods` · `Computational Probability Models` — **Johns Hopkins**
+`Google Prompting Essentials Specialization` — Google (Coursera), Nov 2025
+`Introduction to AI` — Google (Coursera), Nov 2025
+`Advanced Probability & Statistical Methods` — Johns Hopkins University, Mar 2025
+`Computational & Graphical Models in Probability` — Johns Hopkins University, Mar 2025
+`Foundations of Probability & Random Variables` — Johns Hopkins University, Mar 2025
 
 ---
 
-<div align="center">
+### 📡 STATS
 
-**Dial Node:** +91 94896 60152 &nbsp;|&nbsp; **Mail Endpoint:** tarunsanjay1910@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=iam-tarun-86&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-tarun-86&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165"/>
 
-<sub>guest@skct-agent:~$ _</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-tarun-86&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
 
-</div>
+---
+
+### 🔗 CONNECT
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/tarun-r-ai-ml)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://iam-tarun-86.github.io/tarun-portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:tarunsanjay1910@gmail.com)
+
+```
+> "I don't rent compute. I own it."
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=iam-tarun-86&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
