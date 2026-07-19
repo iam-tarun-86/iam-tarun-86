@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff9c&height=220&section=header&text=TARUN%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Security%20AI%20Specialist&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff9c&height=200&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/295755570?v=4" width="130" style="border-radius:50%;border:3px solid #00ff9c;margin-top:-70px"/>
-
-### B.E. CSE (AI & ML) · Sri Krishna College of Technology · Coimbatore, IN
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun+R;AI%2FML+Engineer;Security+AI+Specialist;Building+offline-first+AI+systems" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00ff9c?style=flat-square&logo=linkedin&logoColor=0f2027)](https://linkedin.com/in/tarun-r-ai-ml)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00ff9c?style=flat-square&logo=vercel&logoColor=0f2027)](https://iam-tarun-86.github.io/tarun-portfolio/)
 [![Gmail](https://img.shields.io/badge/-Email-00ff9c?style=flat-square&logo=gmail&logoColor=0f2027)](mailto:tarunsanjay1910@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=iam-tarun-86&color=00ff9c&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -20,7 +19,7 @@ I build **offline-first AI security systems** — autonomous threat detection, l
 
 - 🔭 Currently building **autonomous SOC dashboards** and **computer-vision security platforms**
 - 🧠 Deep in **local LLM deployment** — llama.cpp, Ollama, GGUF quantization
-- 🎯 CGPA 8.0/10.0 · Batch 2024–2028
+- 🎓 B.E. CSE (AI & ML) @ Sri Krishna College of Technology · CGPA 8.0/10.0 · Batch 2024–2028
 - ⚡ Fun fact: I don't rent compute. I own it.
 
 <br>
@@ -86,7 +85,18 @@ Offline SIEM tool — local Gemma 4B pipeline returns CVE classifications in und
 
 <br>
 
-## 🎓 Certifications
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iam-tarun-86&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
+
+</div>
+
+<br>
+
+<details>
+<summary><h2>🎓 Certifications (click to expand)</h2></summary>
 
 | Certification | Issuer | Date |
 |---|---|---|
@@ -96,13 +106,24 @@ Offline SIEM tool — local Gemma 4B pipeline returns CVE classifications in und
 | Computational & Graphical Models in Probability | Johns Hopkins University | Mar 2025 |
 | Foundations of Probability & Random Variables | Johns Hopkins University | Mar 2025 |
 
+</details>
+
+<br>
+
+<details>
+<summary><h2>💬 Ask me about (click to expand)</h2></summary>
+<br>
+
+- 🤖 Local LLM deployment & quantization (llama.cpp, Ollama, GGUF)
+- 🛡️ AI-driven cybersecurity — SOC automation, intrusion detection
+- 👁️ Computer vision pipelines — YOLOv8, ByteTrack, real-time tracking
+- 🧩 Agentic workflows — LangChain, multi-agent orchestration, RAG
+
+</details>
+
 <br>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=iam-tarun-86&theme=dark&hide_border=true&background=0f2027&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" height="165"/>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
