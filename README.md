@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,langchain,docker,react,fastapi&theme=dark&perline=6" />
+<img src="https://raw.githubusercontent.com/iam-tarun-86/iam-tarun-86/main/orbit_banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun;AI%2FML+Engineer;Agentic+%26+Automation+Systems;I+don't+rent+compute.+I+own+it." alt="Typing SVG" />
 
