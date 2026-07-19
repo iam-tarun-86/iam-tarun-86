@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff9c&height=200&section=header&text=Building%20Autonomous%20AI%20Systems&fontSize=32&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,langchain,docker,react,fastapi&theme=dark&perline=6" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun;AI%2FML+Engineer;Agentic+%26+Automation+Systems;I+don't+rent+compute.+I+own+it." alt="Typing SVG" />
 
