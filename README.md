@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff9c&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff9c&height=200&section=header&text=Building%20Autonomous%20AI%20Systems&fontSize=32&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun;AI%2FML+Engineer;Security+AI+Specialist;I+don't+rent+compute.+I+own+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tarun;AI%2FML+Engineer;Agentic+%26+Automation+Systems;I+don't+rent+compute.+I+own+it." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00ff9c?style=flat-square&logo=linkedin&logoColor=0f2027)](https://linkedin.com/in/tarun-r-ai-ml)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00ff9c?style=flat-square&logo=vercel&logoColor=0f2027)](https://iam-tarun-86.github.io/tarun-portfolio/)
@@ -15,9 +15,9 @@
 
 ## 👋 About Me
 
-I build **offline-first AI security systems** — autonomous threat detection, local LLM pipelines, and full-stack tools that don't depend on the cloud. My work sits at the intersection of **AI, cybersecurity, and systems engineering**.
+I build **offline-first AI systems** — autonomous agents, local LLM pipelines, and automation tools that don't depend on the cloud. My work sits at the intersection of **AI, automation, and systems engineering**.
 
-- 🔭 Currently building **autonomous SOC dashboards** and **computer-vision security platforms**
+- 🔭 Currently building **autonomous agent pipelines** and **automation-driven platforms**
 - 🧠 Deep in **local LLM deployment** — llama.cpp, Ollama, GGUF quantization
 - 🎓 B.E. CSE (AI & ML) @ Sri Krishna College of Technology · CGPA 8.0/10.0 · Batch 2024–2028
 - ⚡ Fun fact: I don't rent compute. I own it.
@@ -49,15 +49,15 @@ I build **offline-first AI security systems** — autonomous threat detection, l
 <td width="50%">
 
 ### 🧠 [NPC Cognitive Architecture](https://github.com/iam-tarun-86/npc-framework)
-3-layer memory system (episodic/semantic/procedural) with fine-tuned DistilBERT for real-time player-intent classification.
+Autonomous agent framework — 3-layer memory system (episodic/semantic/procedural) with fine-tuned DistilBERT driving real-time agent decision-making.
 
 `Python` `Flask` `Phaser 3` `ChromaDB` `DistilBERT`
 
 </td>
 <td width="50%">
 
-### 🛡️ [PhantomAgent SOC](https://github.com/iam-tarun-86/phantomagent)
-Autonomous cybersecurity SOC — 5-stage kill chain, sub-second WebSocket alerts, geolocation attack mapping, auto-forensics.
+### 🛡️ [PhantomAgent](https://github.com/iam-tarun-86/phantomagent)
+Multi-stage autonomous pipeline (Watcher → Pre-Filter → Classifier → Decision → Responder) built on a local LLM — applied here to threat monitoring, but the architecture generalizes to any event-driven automation.
 
 `FastAPI` `React 18` `WebSockets` `Gemma 4 E4B`
 
@@ -67,7 +67,7 @@ Autonomous cybersecurity SOC — 5-stage kill chain, sub-second WebSocket alerts
 <td width="50%">
 
 ### 👁️ [Smart Intrusion Detection](https://github.com/iam-tarun-86/smart-intrusion-detection)
-Physical security platform with custom YOLOv8 + ByteTrack tracking, 4-factor real-time risk scoring, live zone editor.
+Real-time perception + decisioning pipeline — custom YOLOv8 + ByteTrack tracking feeding a rules-based risk-scoring agent, with a live zone editor.
 
 `YOLOv8` `ByteTrack` `OpenCV` `React 18`
 
@@ -75,7 +75,7 @@ Physical security platform with custom YOLOv8 + ByteTrack tracking, 4-factor rea
 <td width="50%">
 
 ### 📊 [Local AI Log Analyzer](https://github.com/iam-tarun-86/local-ai-log-analyzer)
-Offline SIEM tool — local Gemma 4B pipeline returns CVE classifications in under 2 seconds, fully air-gapped.
+Offline automation tool — local Gemma 4B pipeline parses raw logs and returns structured, categorized output in under 2 seconds. Fully air-gapped, zero cloud dependency.
 
 `Flask` `React 19` `Gemma 4B` `Docker`
 
@@ -115,9 +115,9 @@ Offline SIEM tool — local Gemma 4B pipeline returns CVE classifications in und
 <br>
 
 - 🤖 Local LLM deployment & quantization (llama.cpp, Ollama, GGUF)
-- 🛡️ AI-driven cybersecurity — SOC automation, intrusion detection
+- 🧩 Agentic workflows & automation — LangChain, multi-agent orchestration, RAG
 - 👁️ Computer vision pipelines — YOLOv8, ByteTrack, real-time tracking
-- 🧩 Agentic workflows — LangChain, multi-agent orchestration, RAG
+- ⚙️ Building tools that don't depend on the cloud
 
 </details>
 
