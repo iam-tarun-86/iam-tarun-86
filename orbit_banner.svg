@@ -9,7 +9,7 @@
   <rect width="900" height="420" fill="url(#bg)"/>
 
   <text x="450" y="90" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="40" font-weight="700" fill="#ffffff" letter-spacing="4">TARUN R</text>
-  <text x="450" y="125" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="16" fill="#3ECF8E" letter-spacing="1.5">AI/ML Engineer &#183; LLM &amp; Agentic Systems</text>
+  <text x="450" y="125" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="16" fill="#38BDF8" letter-spacing="1.5">Edge AI &amp; Autonomous Systems Architect</text>
 
   <line x1="190" y1="155" x2="710" y2="155" stroke="#2c5364" stroke-width="1"/>
 
