@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- True 3D Cyber Neural Grid Header Banner -->
-<img src="https://cdn.jsdelivr.net/gh/iam-tarun-86/iam-tarun-86@main/header_cyber_grid_3d.png" width="100%" alt="Tarun R - 3D Cyber Neural Grid Banner"/>
+<!-- Animated True 3D Cyber Neural Grid Header Banner -->
+<img src="https://cdn.jsdelivr.net/gh/iam-tarun-86/iam-tarun-86@main/header_cyber_grid_3d.svg" width="100%" alt="Tarun R - Animated 3D Cyber Neural Grid Banner"/>
 
 <!-- Typing Dynamic Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Tarun+R;Edge+AI+%E2%80%A2+Autonomous+Agent+Architect;Game+Systems+%E2%80%A2+Zero-Trust+Guardrails;I+don't+rent+compute.+I+own+it." alt="Typing SVG" />

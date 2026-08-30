@@ -1,0 +1,207 @@
+<svg width="100%" height="100%" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="50%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <!-- Glowing Filters -->
+    <filter id="glow-cyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="glow-strong" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="8" result="b1" />
+      <feGaussianBlur stdDeviation="3" result="b2" />
+      <feMerge>
+        <feMergeNode in="b1" />
+        <feMergeNode in="b2" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Grid Fade Gradient -->
+    <linearGradient id="gridFade" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.0"/>
+    </linearGradient>
+
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    /* CSS Keyframe Animations */
+    @keyframes spin-cw {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes spin-ccw {
+      0% { transform: rotate(360deg); }
+      100% { transform: rotate(0deg); }
+    }
+    @keyframes pulse-core {
+      0%, 100% { r: 7px; opacity: 0.9; }
+      50% { r: 11px; opacity: 1; }
+    }
+    @keyframes pulse-ambient {
+      0%, 100% { transform: scale(0.92); opacity: 0.12; }
+      50% { transform: scale(1.08); opacity: 0.25; }
+    }
+    @keyframes grid-travel {
+      0% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: 40; }
+    }
+    @keyframes sweep-scanner {
+      0% { transform: translateX(-900px); opacity: 0; }
+      20% { opacity: 0.7; }
+      80% { opacity: 0.7; }
+      100% { transform: translateX(900px); opacity: 0; }
+    }
+    @keyframes float-node {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+    }
+    @keyframes badge-glow {
+      0%, 100% { stroke: rgba(56, 189, 248, 0.4); }
+      50% { stroke: rgba(56, 189, 248, 0.9); }
+    }
+
+    .rotate-ring1 { transform-origin: 730px 125px; animation: spin-cw 20s linear infinite; }
+    .rotate-ring2 { transform-origin: 730px 125px; animation: spin-ccw 14s linear infinite; }
+    .rotate-ring3 { transform-origin: 730px 125px; animation: spin-cw 32s linear infinite; }
+    .core-pulse { animation: pulse-core 3s ease-in-out infinite; }
+    .ambient-pulse { transform-origin: 730px 125px; animation: pulse-ambient 4s ease-in-out infinite; }
+    .moving-grid { stroke-dasharray: 10, 10; animation: grid-travel 2s linear infinite; }
+    .scanner-beam { animation: sweep-scanner 6s ease-in-out infinite; }
+    .floating1 { animation: float-node 4s ease-in-out infinite; }
+    .floating2 { animation: float-node 5s ease-in-out infinite 1.5s; }
+    .pill-badge { animation: badge-glow 3s ease-in-out infinite; }
+  </style>
+
+  <!-- Base Plate -->
+  <rect width="900" height="260" rx="12" fill="url(#bgGrad)"/>
+  <rect width="900" height="260" rx="12" fill="none" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Animated Scanner Laser Sweep -->
+  <rect x="0" y="0" width="180" height="260" fill="url(#laserGrad)" class="scanner-beam" opacity="0.4"/>
+
+  <!-- Perspective 3D Cyber Floor Grid -->
+  <g opacity="0.8">
+    <!-- Horizontal Perspective Lines -->
+    <line x1="0" y1="258" x2="900" y2="258" stroke="url(#gridFade)" stroke-width="1.8"/>
+    <line x1="20" y1="238" x2="880" y2="238" stroke="url(#gridFade)" stroke-width="1.4"/>
+    <line x1="60" y1="220" x2="840" y2="220" stroke="url(#gridFade)" stroke-width="1.1"/>
+    <line x1="120" y1="204" x2="780" y2="204" stroke="url(#gridFade)" stroke-width="0.8"/>
+    <line x1="200" y1="190" x2="700" y2="190" stroke="url(#gridFade)" stroke-width="0.6"/>
+    <line x1="300" y1="178" x2="600" y2="178" stroke="url(#gridFade)" stroke-width="0.4"/>
+
+    <!-- Animated Vanishing Lines -->
+    <line x1="450" y1="170" x2="-80" y2="260" stroke="url(#gridFade)" stroke-width="1.2" class="moving-grid"/>
+    <line x1="450" y1="170" x2="100" y2="260" stroke="url(#gridFade)" stroke-width="1.2" class="moving-grid"/>
+    <line x1="450" y1="170" x2="260" y2="260" stroke="url(#gridFade)" stroke-width="1.2" class="moving-grid"/>
+    <line x1="450" y1="170" x2="390" y2="260" stroke="url(#gridFade)" stroke-width="1.2" class="moving-grid"/>
+    <line x1="450" y1="170" x2="510" y2="260" stroke="url(#gridFade)" stroke-width="1.2" class="moving-grid"/>
+    <line x1="450" y1="170" x2="640" y2="260" stroke="url(#gridFade)" stroke-width="1.2" class="moving-grid"/>
+    <line x1="450" y1="170" x2="800" y2="260" stroke="url(#gridFade)" stroke-width="1.2" class="moving-grid"/>
+    <line x1="450" y1="170" x2="980" y2="260" stroke="url(#gridFade)" stroke-width="1.2" class="moving-grid"/>
+  </g>
+
+  <!-- Left Side: Constellation Network with Floating Animation -->
+  <g class="floating1" opacity="0.65">
+    <circle cx="70" cy="55" r="3.5" fill="#38bdf8" filter="url(#glow-cyan)"/>
+    <circle cx="120" cy="35" r="2.5" fill="#0ea5e9"/>
+    <circle cx="150" cy="85" r="4" fill="#38bdf8" filter="url(#glow-cyan)"/>
+    <circle cx="90" cy="115" r="3" fill="#0284c7"/>
+    <line x1="70" y1="55" x2="120" y2="35" stroke="#38bdf8" stroke-width="0.8" stroke-dasharray="3,3"/>
+    <line x1="120" y1="35" x2="150" y2="85" stroke="#38bdf8" stroke-width="0.8" stroke-dasharray="3,3"/>
+    <line x1="70" y1="55" x2="90" y2="115" stroke="#38bdf8" stroke-width="0.8" stroke-dasharray="3,3"/>
+    <line x1="90" y1="115" x2="150" y2="85" stroke="#38bdf8" stroke-width="0.8" stroke-dasharray="3,3"/>
+  </g>
+
+  <!-- Right Side: TRUE 3D ANIMATED ROTATING NEURAL SPHERE -->
+  <!-- Ambient Core Glow -->
+  <circle cx="730" cy="125" r="75" fill="#38bdf8" class="ambient-pulse" filter="url(#glow-strong)"/>
+
+  <!-- Counter-Rotating 3D Outer Geodesic Cage -->
+  <g class="rotate-ring3">
+    <ellipse cx="730" cy="125" rx="68" ry="68" fill="none" stroke="#0ea5e9" stroke-width="1" opacity="0.4" stroke-dasharray="8,5"/>
+    <circle cx="798" cy="125" r="3" fill="#38bdf8"/>
+    <circle cx="662" cy="125" r="3" fill="#38bdf8"/>
+    <circle cx="730" cy="57" r="3" fill="#38bdf8"/>
+    <circle cx="730" cy="193" r="3" fill="#38bdf8"/>
+  </g>
+
+  <!-- Primary Rotating 3D Latitude/Longitude Ring Structure (Clockwise) -->
+  <g class="rotate-ring1">
+    <!-- Longitudinal 3D Perspective Ellipses -->
+    <ellipse cx="730" cy="125" rx="60" ry="24" fill="none" stroke="#38bdf8" stroke-width="1.3" opacity="0.85" filter="url(#glow-cyan)"/>
+    <ellipse cx="730" cy="125" rx="24" ry="60" fill="none" stroke="#38bdf8" stroke-width="1.3" opacity="0.85" filter="url(#glow-cyan)"/>
+    <ellipse cx="730" cy="125" rx="60" ry="46" fill="none" stroke="#0284c7" stroke-width="0.9" opacity="0.6"/>
+    <ellipse cx="730" cy="125" rx="46" ry="60" fill="none" stroke="#0284c7" stroke-width="0.9" opacity="0.6"/>
+
+    <!-- Geometric Inscribed Polyhedron -->
+    <polygon points="730,65 772,103 756,173 704,173 688,103" fill="none" stroke="#7dd3fc" stroke-width="1.2" opacity="0.8"/>
+    
+    <!-- Outer Node Points -->
+    <circle cx="730" cy="65" r="3.5" fill="#ffffff" filter="url(#glow-cyan)"/>
+    <circle cx="772" cy="103" r="3.5" fill="#38bdf8" filter="url(#glow-cyan)"/>
+    <circle cx="756" cy="173" r="3.5" fill="#38bdf8" filter="url(#glow-cyan)"/>
+    <circle cx="704" cy="173" r="3.5" fill="#38bdf8" filter="url(#glow-cyan)"/>
+    <circle cx="688" cy="103" r="3.5" fill="#38bdf8" filter="url(#glow-cyan)"/>
+  </g>
+
+  <!-- Secondary Counter-Rotating Inner Polyhedral Rings (Counter-Clockwise) -->
+  <g class="rotate-ring2">
+    <!-- Counter 3D Ellipses -->
+    <ellipse cx="730" cy="125" rx="52" ry="18" fill="none" stroke="#7dd3fc" stroke-width="1.1" opacity="0.75"/>
+    <ellipse cx="730" cy="125" rx="18" ry="52" fill="none" stroke="#7dd3fc" stroke-width="1.1" opacity="0.75"/>
+    
+    <!-- Counter Polygon -->
+    <polygon points="730,185 772,147 756,77 704,77 688,147" fill="none" stroke="#38bdf8" stroke-width="1" opacity="0.65"/>
+
+    <!-- Diamond Core Cross Struts -->
+    <line x1="688" y1="103" x2="772" y2="147" stroke="#38bdf8" stroke-width="0.75" opacity="0.4"/>
+    <line x1="772" y1="103" x2="688" y2="147" stroke="#38bdf8" stroke-width="0.75" opacity="0.4"/>
+
+    <!-- Inner Vertices -->
+    <circle cx="730" cy="185" r="3" fill="#ffffff" filter="url(#glow-cyan)"/>
+    <circle cx="772" cy="147" r="3" fill="#38bdf8"/>
+    <circle cx="756" cy="77" r="3" fill="#7dd3fc"/>
+    <circle cx="704" cy="77" r="3" fill="#7dd3fc"/>
+    <circle cx="688" cy="147" r="3" fill="#38bdf8"/>
+  </g>
+
+  <!-- Pulsating Luminous Fusion Core (Center of Sphere) -->
+  <circle cx="730" cy="125" r="8" fill="#ffffff" class="core-pulse" filter="url(#glow-strong)"/>
+  <circle cx="730" cy="125" r="4" fill="#38bdf8"/>
+
+  <!-- Left Side: Typography & Branding -->
+  <g transform="translate(60, 0)">
+    <!-- Subtitle Glowing Pill -->
+    <rect x="0" y="44" width="220" height="26" rx="13" fill="rgba(56, 189, 248, 0.12)" stroke="rgba(56, 189, 248, 0.4)" stroke-width="1" class="pill-badge"/>
+    <circle cx="14" cy="57" r="4" fill="#38bdf8" filter="url(#glow-cyan)"/>
+    <text x="26" y="61" font-family="'Fira Code', monospace" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1.5">EDGE NEURAL CORE</text>
+
+    <!-- Main Title -->
+    <text x="0" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="46" font-weight="900" fill="#ffffff" letter-spacing="5">TARUN R</text>
+
+    <!-- Primary Role Descriptor -->
+    <text x="0" y="152" font-family="'Fira Code', monospace" font-size="14.5" font-weight="600" fill="#38bdf8" letter-spacing="1.5">EDGE AI <tspan fill="#64748b">&#8226;</tspan> AUTONOMOUS AGENTS <tspan fill="#64748b">&#8226;</tspan> GAME SYSTEMS</text>
+
+    <!-- Mission Motto -->
+    <text x="0" y="184" font-family="'Fira Code', monospace" font-size="12.5" fill="#94a3b8" letter-spacing="0.5">&gt; "I don't rent compute. I own it."</text>
+  </g>
+
+  <!-- Bottom Glowing Edge Bar -->
+  <line x1="0" y1="259" x2="900" y2="259" stroke="#38bdf8" stroke-width="2" filter="url(#glow-cyan)"/>
+</svg>
