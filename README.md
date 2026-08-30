@@ -4,7 +4,7 @@
 <img src="https://cdn.jsdelivr.net/gh/iam-tarun-86/iam-tarun-86@main/orbit_banner.svg" width="100%" alt="Tarun R - Banner"/>
 
 <!-- Typing Dynamic Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Tarun+R;AI%2FML+Engineer+%E2%80%A2+Autonomous+Systems;Local+LLMs+%E2%80%A2+Agentic+Pipelines+%E2%80%A2+Computer+Vision;I+don't+rent+compute.+I+own+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Tarun+R;Edge+AI+%E2%80%A2+Game+Systems+Architect;Autonomous+Agentic+Frameworks+%E2%80%A2+On-Device+SLMs;I+don't+rent+compute.+I+own+it." alt="Typing SVG" />
 
 <!-- Quick Connect & Badges -->
 <p align="center">
@@ -18,17 +18,86 @@
 
 <br/>
 
+```yaml
+┌── ⚡ NEXUS // EDGE AI COGNITIVE RUNTIME ───────────────────────────────────────────┐
+│ [1. SPATIAL SENSOR] Visitor detected in interaction radius. Entity: "Traveler"     │
+│ [2. VECTOR MEMORY ] Querying ChromaDB episodic stream... [0 past encounters found] │
+│ [3. EDGE REASONER ] llama.cpp quantized model synthesizing unscripted dialogue...  │
+│                                                                                    │
+│ ⚡ NEXUS-01 [Edge Neural Core]:                                                    │
+│ "Welcome, Traveler! You've reached Tarun's Edge AI domain. My cognitive loop runs  │
+│  100% on bare metal with zero cloud latency and zero API rent. Inspect my stack!"  │
+└────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## 🕹️ Core Focus: Game Development ⨉ Edge Agentic Frameworks
+
+> *"Games shouldn't just execute static if-else scripts — they should host living, Edge AI minds with persistent episodic memory, emergent goals, and zero-cloud latency."*
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Autonomous NPC Cognitive Loops</h4>
+      <p>Architecting Edge AI brains that perceive 2D/3D game worlds, query persistent vector memory streams, and synthesize unscripted behavioral intentions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Edge-Native Neural Compute</h4>
+      <p>Deploying quantized models directly on edge hardware for sub-50ms offline game loops with zero API latency and zero cloud costs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌌 Emergent Narratives & Quests</h4>
+      <p>Moving beyond hardcoded dialogue trees. Creating living simulations where factions and NPCs adaptively generate dynamic storylines in response to player choices.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Edge Agent Swarms & Guardrails</h4>
+      <p>Orchestrating multi-agent systems with deterministic runtime circuit breakers to keep dynamic game simulations immersive, performant, and stable.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+**🎮 Interactive Game Engines** &nbsp;⨉&nbsp; **🧠 Edge Agentic Swarms** &nbsp;⨉&nbsp; **⚡ Edge Neural Hardware**
+
+</div>
+
+---
+
 ## ⚡ About Me
 
-I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero-trust guardrails** that eliminate cloud dependencies. My engineering sits at the intersection of local LLM inference engines, multi-agent orchestration swarms, real-time computer vision, and high-performance desktop architectures.
+I build **Edge AI architectures**, **autonomous agent pipelines**, and **zero-trust guardrails** that eliminate cloud dependencies. My work sits at the intersection of game systems engineering, on-device SLM inference, multi-agent swarms, and edge computer vision.
 
-- 🔭 **Focus**: Autonomous Multi-Agent Systems, Local LLMs (GGUF / `llama.cpp`), Zero-Trust AI Firewalls & Edge Vision.
+- 🔭 **Domain**: Game Systems ⨉ Edge Agentic Frameworks (GGUF / `llama.cpp` / ChromaDB).
 - 🎓 **Education**: B.E. Computer Science & Engineering (AI & ML) @ **Sri Krishna College of Technology** (CGPA: 8.0/10.0 · Batch 2024–2028).
 - ⚡ **Philosophy**: *Decentralized, privacy-preserving, high-throughput systems on bare metal.*
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🧰 Game Systems & Edge AI Engine Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,js,ts,react,vite,fastapi,flask,docker,linux,git,postgres,sqlite&theme=dark" alt="Tech Stack Icons"/>
+</div>
+
+<br/>
+
+| Category | Technologies & Tooling |
+| :--- | :--- |
+| **🎮 Game & Spatial Engines** | Phaser 3 · Three.js · Rust (Tauri / Systems Interop) · 2D Tilemaps & Shaders |
+| **⚡ Edge Neural Runtimes** | `llama.cpp` · ONNX Runtime · GGUF Quantization · On-Device Acceleration |
+| **🧠 Cognitive Agent Memory** | ChromaDB Vector Streams · BM25 Hybrid Indexing · LangGraph State Machines |
+| **👁️ Computer Vision & ML** | YOLOv8 · ByteTrack · OpenCV · PyTorch · TensorFlow · Scikit-Learn · LSTM / Sequence Modeling |
+| **🛡️ Guardrails & Infrastructure** | Zero-Trust Runtime Circuit Breakers · Docker · Linux (WSL/Ubuntu) · Git · WebSockets |
+
+---
+
+## 🚀 Featured Engineering Deployments
 
 <table>
   <tr>
@@ -44,7 +113,7 @@ I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero
     </td>
     <td width="50%" valign="top">
       <h3>🌌 <a href="https://github.com/iam-tarun-86/wayfarer">wayfarer</a></h3>
-      <p><b>Local-First Multi-Agent Deep Research System</b></p>
+      <p><b>Edge-First Multi-Agent Deep Research System</b></p>
       <p>Autonomous AI swarm orchestrated via LangGraph, FastAPI, and Three.js 3D space telemetry. Performs deep web scraping, math/equation parsing, and produces cited whitepapers 100% on-device.</p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
@@ -57,7 +126,7 @@ I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero
     <td width="50%" valign="top">
       <h3>🔒 <a href="https://github.com/iam-tarun-86/Aegis">Aegis</a></h3>
       <p><b>Zero-Cloud Privacy-Preserving Research Intelligence Platform</b></p>
-      <p>Offline-first research intelligence engine featuring automated data extraction, academic report synthesis, and dense vector RAG with zero data leakage.</p>
+      <p>Edge-native research intelligence engine featuring automated data extraction, academic report synthesis, and dense vector RAG with zero data leakage.</p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
         <img src="https://img.shields.io/badge/Dense_RAG-00FF9C?style=flat-square&logoColor=0D1117" />
@@ -66,7 +135,7 @@ I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero
     </td>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/iam-tarun-86/PS_billing_system">PS_billing_system</a></h3>
-      <p><b>High-Performance Offline-First Desktop POS Application</b></p>
+      <p><b>High-Performance Offline Desktop POS Application</b></p>
       <p>Sub-millisecond latency POS & inventory suite built with Tauri v2, Rust backend, React 19, Vite, and atomic ACID local data persistence.</p>
       <p>
         <img src="https://img.shields.io/badge/Tauri_v2-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
@@ -89,10 +158,10 @@ I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/iam-tarun-86/npc-framework">npc-framework</a></h3>
       <p><b>Cognitive Architecture for Generative Autonomous NPCs</b></p>
-      <p>2D RPG framework featuring autonomous NPCs with episodic/semantic memory, procedural behavior rules, and intent classification driven by local LLMs.</p>
+      <p>2D RPG framework featuring autonomous NPCs with episodic/semantic memory, procedural behavior rules, and intent classification driven by Edge AI models.</p>
       <p>
         <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Local_LLM-00FF9C?style=flat-square&logoColor=0D1117" />
+        <img src="https://img.shields.io/badge/Edge_AI-00FF9C?style=flat-square&logoColor=0D1117" />
         <img src="https://img.shields.io/badge/Phaser_3-E91E63?style=flat-square" />
       </p>
     </td>
@@ -100,8 +169,8 @@ I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero
   <tr>
     <td width="50%" valign="top">
       <h3>📑 <a href="https://github.com/iam-tarun-86/dockmind">dockmind</a></h3>
-      <p><b>Local Document Intelligence & Hybrid RAG Assistant</b></p>
-      <p>Chat offline with PDFs, Word documents, and tabular data using a dual ChromaDB dense vector + BM25 sparse keyword retrieval pipeline and quantized local models.</p>
+      <p><b>Edge Document Intelligence & Hybrid RAG Assistant</b></p>
+      <p>Chat offline with PDFs, Word documents, and tabular data using a dual ChromaDB dense vector + BM25 sparse keyword retrieval pipeline and quantized edge models.</p>
       <p>
         <img src="https://img.shields.io/badge/Hybrid_RAG-3ECF8E?style=flat-square" />
         <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=flat-square" />
@@ -120,24 +189,6 @@ I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero
     </td>
   </tr>
 </table>
-
----
-
-## 🧰 Tech Matrix & Engineering Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,cpp,js,ts,react,vite,fastapi,flask,docker,linux,git,postgres,sqlite&theme=dark" alt="Tech Stack Icons"/>
-</div>
-
-<br/>
-
-| Category | Technologies & Tooling |
-| :--- | :--- |
-| **🧠 Agentic AI & LLMs** | LangGraph · LangChain · LlamaIndex · llama.cpp · Ollama · GGUF Quantization · Dense & Hybrid RAG · MCP |
-| **👁️ Computer Vision & ML** | YOLOv8 · ByteTrack · OpenCV · PyTorch · TensorFlow · Scikit-Learn · LSTM / Sequence Modeling · XAI |
-| **⚡ Systems & Desktop** | Tauri v2 · Rust · WebSockets · React 19 · Vite · Node.js · REST / Async APIs |
-| **💾 Vector Stores & Data** | ChromaDB · BM25 Search · PostgreSQL · SQLite · Pandas · NumPy · ChromaDB Collections |
-| **🛠️ DevOps & Infrastructure** | Docker · Linux (WSL/Ubuntu) · Git/GitHub · Postman · VS Code · On-Device Model Optimization |
 
 ---
 
@@ -167,12 +218,12 @@ I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero
 </details>
 
 <details>
-<summary><b>🧠 Offline-First & Local LLM Optimization</b> <i>(Click to expand)</i></summary>
+<summary><b>🧠 Edge-Native Neural Inference Optimization</b> <i>(Click to expand)</i></summary>
 <br/>
 
 - **High-Throughput Local Inference**: Fine-tuned GGUF quantization levels (`Q4_K_M`, `Q8_0`) utilizing `llama.cpp` and `Ollama`.
 - **Hybrid RAG Pipelines**: Combining BM25 sparse keyword heuristics with ChromaDB dense embeddings for zero-latency retrieval.
-- **Structured Outputs**: Constrained JSON schema generation for deterministic tool calls on small local models.
+- **Structured Outputs**: Constrained JSON schema generation for deterministic tool calls on small edge models.
 
 </details>
 
@@ -198,4 +249,5 @@ I build **offline-first AI systems**, **autonomous agent pipelines**, and **zero
 </p>
 
 </div>
+
 
