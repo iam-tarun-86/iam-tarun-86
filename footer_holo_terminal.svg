@@ -34,8 +34,13 @@
       0%, 100% { stroke: rgba(56, 189, 248, 0.4); }
       50% { stroke: rgba(56, 189, 248, 0.85); }
     }
+    @keyframes shake-pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.15); }
+    }
     .pulsing-dot { animation: pulse-dot 2s ease-in-out infinite; }
     .holo-frame { animation: border-breathe 4s ease-in-out infinite; }
+    .handshake-anim { transform-origin: 320px 38px; animation: shake-pulse 2.5s ease-in-out infinite; }
   </style>
 
   <!-- Holographic Floating Frame Plate -->
@@ -43,8 +48,11 @@
 
   <!-- Top Header Bar -->
   <g transform="translate(30, 42)">
-    <!-- Title -->
+    <!-- Title + Handshake Icon -->
     <text x="0" y="0" font-family="'Fira Code', monospace" font-size="14" font-weight="700" fill="#38bdf8" letter-spacing="1">⚡ NEXUS // SECURE TRANSMISSION LINK</text>
+    
+    <!-- Glowing Handshake Icon -->
+    <text x="315" y="1" font-size="16" class="handshake-anim">🤝</text>
     
     <!-- Live Ping Indicator -->
     <circle cx="820" cy="-4" r="4.5" fill="#38bdf8" class="pulsing-dot" filter="url(#coreGlow)"/>
@@ -77,22 +85,19 @@
     </g>
   </g>
 
-  <!-- Action CTA Buttons Footer -->
+  <!-- Action CTA Buttons Footer Inside SVG -->
   <g transform="translate(30, 190)">
-    <!-- Button 1: Initiate Handshake (LinkedIn) -->
     <g transform="translate(0, 0)">
-      <rect width="210" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="#38bdf8" stroke-width="1"/>
-      <text x="105" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="0.5">⚡ INITIATE HANDSHAKE</text>
+      <rect width="230" height="28" rx="6" fill="rgba(56, 189, 248, 0.15)" stroke="#38bdf8" stroke-width="1"/>
+      <text x="115" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="0.5">🤝 INITIATE HANDSHAKE</text>
     </g>
 
-    <!-- Button 2: Inspect Repositories -->
-    <g transform="translate(225, 0)">
-      <rect width="200" height="28" rx="6" fill="rgba(30, 41, 59, 0.6)" stroke="#334155" stroke-width="1"/>
-      <text x="100" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="0.5">📁 INSPECT REPOSITORIES</text>
+    <g transform="translate(245, 0)">
+      <rect width="210" height="28" rx="6" fill="rgba(30, 41, 59, 0.6)" stroke="#334155" stroke-width="1"/>
+      <text x="105" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="0.5">📁 INSPECT REPOSITORIES</text>
     </g>
 
-    <!-- Button 3: Send Transmission (Email) -->
-    <g transform="translate(440, 0)">
+    <g transform="translate(470, 0)">
       <rect width="180" height="28" rx="6" fill="rgba(30, 41, 59, 0.6)" stroke="#334155" stroke-width="1"/>
       <text x="90" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="0.5">✉️ DIRECT DISPATCH</text>
     </g>

@@ -59,7 +59,11 @@
 
 <!-- Floating Holographic Handshake Terminal -->
 <div align="center">
-  <a href="https://linkedin.com/in/tarun-r-ai-ml">
-    <img src="https://cdn.jsdelivr.net/gh/iam-tarun-86/iam-tarun-86@main/footer_holo_terminal.svg" width="100%" alt="Floating Holographic Handshake Terminal"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/iam-tarun-86/iam-tarun-86@main/footer_holo_terminal.svg" width="100%" alt="Floating Holographic Handshake Terminal"/>
+
+  <p align="center" style="margin-top: 10px;">
+    <a href="https://linkedin.com/in/tarun-r-ai-ml"><img src="https://img.shields.io/badge/%F0%9F%A4%9D_INITIATE_HANDSHAKE-LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0F172A" alt="Initiate Handshake"/></a>
+    <a href="https://github.com/iam-tarun-86?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%81_INSPECT-Repositories-334155?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="Inspect Repositories"/></a>
+    <a href="mailto:tarunsanjay1910@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_DIRECT_DISPATCH-Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Direct Dispatch"/></a>
+  </p>
 </div>
