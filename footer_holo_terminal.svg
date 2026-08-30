@@ -1,0 +1,100 @@
+<svg width="100%" height="100%" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="holoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1329" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#0f172a" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#020617" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <!-- Glowing Cyan Filter -->
+    <filter id="holoGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="coreGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 0.6; r: 4px; }
+      50% { opacity: 1; r: 5.5px; }
+    }
+    @keyframes border-breathe {
+      0%, 100% { stroke: rgba(56, 189, 248, 0.4); }
+      50% { stroke: rgba(56, 189, 248, 0.85); }
+    }
+    .pulsing-dot { animation: pulse-dot 2s ease-in-out infinite; }
+    .holo-frame { animation: border-breathe 4s ease-in-out infinite; }
+  </style>
+
+  <!-- Holographic Floating Frame Plate -->
+  <rect x="10" y="10" width="880" height="220" rx="12" fill="url(#holoBg)" class="holo-frame" stroke="rgba(56, 189, 248, 0.5)" stroke-width="1.5"/>
+
+  <!-- Top Header Bar -->
+  <g transform="translate(30, 42)">
+    <!-- Title -->
+    <text x="0" y="0" font-family="'Fira Code', monospace" font-size="14" font-weight="700" fill="#38bdf8" letter-spacing="1">⚡ NEXUS // SECURE TRANSMISSION LINK</text>
+    
+    <!-- Live Ping Indicator -->
+    <circle cx="820" cy="-4" r="4.5" fill="#38bdf8" class="pulsing-dot" filter="url(#coreGlow)"/>
+    <text x="805" y="0" text-anchor="end" font-family="'Fira Code', monospace" font-size="11.5" fill="#38bdf8" letter-spacing="0.5">LATENCY: 0.2ms [BARE-METAL]</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="30" y1="58" x2="870" y2="58" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- 4 Telemetry Spec Fields -->
+  <g transform="translate(30, 88)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">
+    <!-- Col 1 -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" fill="#64748b" font-weight="700">● ARCHITECTURE:</text>
+      <text x="135" y="0" fill="#e2e8f0" font-weight="500">Autonomous Agent Graphs · SLM Edge Runtimes</text>
+    </g>
+    <g transform="translate(0, 26)">
+      <text x="0" y="0" fill="#64748b" font-weight="700">● PHILOSOPHY  :</text>
+      <text x="135" y="0" fill="#38bdf8" font-weight="500">"I don't rent compute. I own it."</text>
+    </g>
+
+    <!-- Col 2 -->
+    <g transform="translate(0, 52)">
+      <text x="0" y="0" fill="#64748b" font-weight="700">● CURRENT FOCUS:</text>
+      <text x="135" y="0" fill="#e2e8f0" font-weight="500">Living Game Simulations · Procedural Cognitive NPCs</text>
+    </g>
+    <g transform="translate(0, 78)">
+      <text x="0" y="0" fill="#64748b" font-weight="700">● DISPATCH     :</text>
+      <text x="135" y="0" fill="#00ff9c" font-weight="600">🟢 Available for High-Throughput Edge AI &amp; Game Labs</text>
+    </g>
+  </g>
+
+  <!-- Action CTA Buttons Footer -->
+  <g transform="translate(30, 190)">
+    <!-- Button 1: Initiate Handshake (LinkedIn) -->
+    <g transform="translate(0, 0)">
+      <rect width="210" height="28" rx="6" fill="rgba(56, 189, 248, 0.12)" stroke="#38bdf8" stroke-width="1"/>
+      <text x="105" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="0.5">⚡ INITIATE HANDSHAKE</text>
+    </g>
+
+    <!-- Button 2: Inspect Repositories -->
+    <g transform="translate(225, 0)">
+      <rect width="200" height="28" rx="6" fill="rgba(30, 41, 59, 0.6)" stroke="#334155" stroke-width="1"/>
+      <text x="100" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="0.5">📁 INSPECT REPOSITORIES</text>
+    </g>
+
+    <!-- Button 3: Send Transmission (Email) -->
+    <g transform="translate(440, 0)">
+      <rect width="180" height="28" rx="6" fill="rgba(30, 41, 59, 0.6)" stroke="#334155" stroke-width="1"/>
+      <text x="90" y="18" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="0.5">✉️ DIRECT DISPATCH</text>
+    </g>
+  </g>
+</svg>

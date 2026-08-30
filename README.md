@@ -57,20 +57,9 @@
 
 <br/>
 
-> 💬 **Open for Collaboration:** Architecting autonomous Edge AI swarms, on-device SLM inference runtimes, and emergent game cognitive loops. Reach out on LinkedIn or Email!
-
----
-
+<!-- Floating Holographic Handshake Terminal -->
 <div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e293b,100:0f172a&height=100&section=footer" width="100%" alt="Footer Wave"/>
-
-<p align="center">
-  <i>"I don't rent compute. I own it."</i>
-</p>
-
+  <a href="https://linkedin.com/in/tarun-r-ai-ml">
+    <img src="https://cdn.jsdelivr.net/gh/iam-tarun-86/iam-tarun-86@main/footer_holo_terminal.svg" width="100%" alt="Floating Holographic Handshake Terminal"/>
+  </a>
 </div>
-
-
-
