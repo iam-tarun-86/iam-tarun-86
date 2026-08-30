@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Cyber Neural Grid Header Banner -->
-<img src="https://cdn.jsdelivr.net/gh/iam-tarun-86/iam-tarun-86@main/header_cyber_grid.svg" width="100%" alt="Tarun R - Cyber Neural Grid Banner"/>
+<!-- True 3D Cyber Neural Grid Header Banner -->
+<img src="https://cdn.jsdelivr.net/gh/iam-tarun-86/iam-tarun-86@main/header_cyber_grid_3d.png" width="100%" alt="Tarun R - 3D Cyber Neural Grid Banner"/>
 
 <!-- Typing Dynamic Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Tarun+R;Edge+AI+%E2%80%A2+Autonomous+Agent+Architect;Game+Systems+%E2%80%A2+Zero-Trust+Guardrails;I+don't+rent+compute.+I+own+it." alt="Typing SVG" />
@@ -47,16 +47,17 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-tarun-86&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=334155" height="140" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-tarun-86&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&border_color=334155" height="140" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=iam-tarun-86&theme=dark&background=0f172a&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&border=334155&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-tarun-86&theme=tokyonight" height="150" alt="Profile Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iam-tarun-86&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 8px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-tarun-86&theme=dark&background=0f172a&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&border=334155&hide_border=false" height="140" alt="GitHub Streak" />
-</div>
+<br/>
+
+> 💬 **Open for Collaboration:** Architecting autonomous Edge AI swarms, on-device SLM inference runtimes, and emergent game cognitive loops. Reach out on LinkedIn or Email!
 
 ---
 
